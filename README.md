@@ -1,6 +1,11 @@
 # Computational Intelligence
 
-Projects for university course using neural networks and genetic algorithms
+Projects using neural networks and genetic algorithms.
+Libraries used:
+Scikit-learn
+Keras interface for TensorFlow
+PyGAD
+Minisom
 
 ## Neural Networks
 
