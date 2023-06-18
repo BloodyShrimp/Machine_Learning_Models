@@ -1,4 +1,4 @@
-# Computational Intelligence
+# Machine Learning
 
 Projects using neural networks and genetic algorithms.
 Libraries used:
